@@ -16,7 +16,7 @@ const Header = () => {
           manera rápida y sencilla.
         </h3>
       </div>
-      <div className="bg-black/50 h-[400px] w-[90%] max-w-[1100px] absolute rounded-full shadow"></div>
+      <div className="bg-black/25 h-[400px] w-[90%] max-w-[1100px] absolute rounded-full shadow"></div>
     </header>
   );
 };

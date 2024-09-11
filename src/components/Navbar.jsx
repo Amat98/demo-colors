@@ -8,7 +8,7 @@ const Navbar = () => {
       </form>
 
       <ul className="flex gap-3 list-none text-xl font-bold ">
-        <li className="">INICAR SESION</li>
+        <li className="">INICIAR SESION</li>
         <li>REGISTRARSE</li>
       </ul>
     </nav>
